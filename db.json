@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "Task with code 007",
+      "attention": false,
+      "tech": "Riad ENNAIM",
+      "date": "2019-05-31T15:46:10.179Z",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "message": "Issue with code 002",
+      "attention": false,
+      "tech": "John ENNAIM",
+      "date": "2019-05-31T16:18:04.245Z"
+    },
+    {
+      "message": "Task with code 070",
+      "attention": true,
+      "tech": "Sam ENNAIM",
+      "date": "2019-05-31T15:46:48.690Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Riad",
+      "lastName": "ENNAIM"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "ENNAIM"
+    },
+    {
+      "id": 3,
+      "firstName": "Sam",
+      "lastName": "ENNAIM"
+    }
+  ]
+}
